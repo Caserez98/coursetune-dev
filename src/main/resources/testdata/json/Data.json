@@ -1,0 +1,27 @@
+
+    {
+    	"username":"alfredo+automation@coursetune.com",
+        "expectedURL":"https://qa.coursetune.com/#page=cj1ncmFwaCZwPTViYTgzMzg5LTZkOWQtNGYxYy1hYjbEmzgxZmIxYWFjOGJjMg%3D%3D",
+    	"password":"Automation4!",
+        "division": "MIT Development",
+        "program":  "Software Development",
+        "training":"Full Stack Development with MERN Stack",
+		"module 1":"Front-end fundamentals",
+		"module 2":"Back-end fundamentals",
+		"module 3":"React",
+		"module 4":"MERN Stack",
+        "module 1 goal 1": "Learn HTML Syntax",
+        "module 1 goal 2": "Learn how to style a website with CSS",
+        "module 1 goal 3": "Use javascript to add interaction between user and the website",
+        "module 2 goal 1": "Learn Node Js Fundamentals",
+        "module 2 goal 2": "Learn how to work with the Express Framework",
+        "module 2 goal 3": "Use MongoDB to manage data",
+        "module 3 goal 1": "Learn JSX Sintax and Fundametals of React",
+        "module 3 goal 2": "Use React Hooks and Router",
+        "module 3 goal 3": "Learn how to manage states with Redux",
+        "module 4 goal 1": "Build the Frontend of our project",
+        "module 4 goal 2": "Build the backend of our project",
+        "module 4 goal 3": "Test aour application and deploy it"
+        
+    }
+ 
